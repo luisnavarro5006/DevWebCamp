@@ -1,4 +1,4 @@
-# DevWebCamp_FINAL
+# DevWebCamp
 
 # Proyecto en Equipo Final 
 En este proyecto final, se puso en practica todo el conocimiento sobre back end y front end, estando tres personas como colaboradoras.
