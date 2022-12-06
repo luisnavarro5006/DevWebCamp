@@ -33,7 +33,6 @@ Realmente la idea del proyecto es bastante clara, es una página.
 
 Seguimos con los problemas técnicos, por alguna razon desconocida ya sea PH, Composer o el propio Apache, sigue sin reconocernos las hojas de estilo correspondentes, ya que a pesar de que si existen, el php no logra reconocer las hojas de estilo y el proyecto deja de funcionar, y si no son las hojas de estilo el problema al que nos enfrentamos es que no reconoce los propios archivos PHP.
 
-# Imagenes del Proyecto Antes del Desastre 
 
 <h2> Interfaz Usuario <h2>
   
