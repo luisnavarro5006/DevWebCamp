@@ -46,6 +46,8 @@ Seguimos con los problemas técnicos, por alguna razon desconocida ya sea PH, Co
 ![image](https://user-images.githubusercontent.com/111943639/205967032-e0c9595e-7c2c-4018-ac35-708bacdb5c33.png)
 ![image](https://user-images.githubusercontent.com/111943639/205967401-7c80765b-91b1-4bae-9e22-8ed589ec2568.png)
 ![image](https://user-images.githubusercontent.com/111943639/205967446-e3dc4770-fdb4-4c39-ae94-1df3ae08f297.png)
+![image](https://user-images.githubusercontent.com/111943025/205968484-026c8ec1-5a9e-4978-ba2f-7ce26e8cbd9b.png)
+
 
 
 
