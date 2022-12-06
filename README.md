@@ -27,7 +27,7 @@ para ya despues si activarlo y que el servició este funcionando.
 Obviamente al mencionar que utilizamos Gulp, el sitio tiene un diseño responsive para cualquier dispositivo, desde un monitor extragrande hasta un smartphone pequeño.
 
 Tambien se busco tener diferentes detalles graficos desde colores a diversas animaciónes 
-Realmente la idea del proyecto es bastante clara, es una página 
+Realmente la idea del proyecto es bastante clara, es una página.
 
 # Problemas Técnicos 
 
