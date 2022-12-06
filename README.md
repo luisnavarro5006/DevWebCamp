@@ -34,6 +34,9 @@ Realmente la idea del proyecto es bastante clara, es una página
 Seguimos con los problemas técnicos, por alguna razon desconocida ya sea PH, Composer o el propio Apache, sigue sin reconocernos las hojas de estilo correspondentes, ya que a pesar de que si existen, el php no logra reconocer las hojas de estilo y el proyecto deja de funcionar, y si no son las hojas de estilo el problema al que nos enfrentamos es que no reconoce los propios archivos PHP.
 
 # Imagenes del Proyecto Antes del Desastre 
+
+<h2> Interfaz Usuario <h2>
+  
 ![image](https://user-images.githubusercontent.com/111943639/205960146-9eefe1ef-a803-42a6-8bb8-8e9ae3cc9455.png)
 ![image](https://user-images.githubusercontent.com/111943639/205960284-f01c9b8d-e642-4157-a385-87f6d943092f.png)
 ![image](https://user-images.githubusercontent.com/111943639/205961928-68175335-e011-49e6-9d84-0a65d78b47ff.png)
